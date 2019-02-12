@@ -1,6 +1,6 @@
 # Projects 
 
-Materials and outlines for the Final Project for COGS108.
+https://www.kaggle.com/datasnaek/youtube-new/home
 
 ## Project Schedule
 
