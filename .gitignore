@@ -1,2 +1,7 @@
 # Ignore notebook checkpoints
 .ipynb_checkpoints/*
+
+# Ignore dataset-related files
+*.csv
+*.json
+*.zip
